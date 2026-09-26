@@ -1,36 +1,95 @@
-# QA portfolio
+# QA Portfolio
 
-## Application Under Test
+## 👩‍💻 About This Project
 
-Automation Exercise
+This repository contains my practical Quality Assurance testing portfolio based on an e-commerce web application.
 
-## Project Overview
+The project demonstrates my skills in manual testing, test case design, defect reporting, UI automation, API testing, and performance testing.
 
-This project focuses on the end-to-end quality assurance testing of an e-commerce web application.
+## 🛒 Application Under Test
 
-The project will cover manual testing, UI automation testing, API testing, and performance testing.
+**Application:** Automation Exercise
+**URL:** https://www.automationexercise.com/
 
-## Testing Areas
+## 🎯 Project Objective
 
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- Exploratory Testing
-- UI Automation Testing
-- API Testing
-- Performance Testing
-- Usability Testing
+The objective of this project is to perform end-to-end QA testing of an e-commerce application and demonstrate a structured software testing process.
 
-## Tools & Technologies
+## 🧪 Testing Areas
 
-- Python
-- Selenium
-- Pytest
-- Postman
-- Apache JMeter
-- Git
-- GitHub
+* Functional Testing
+* Smoke Testing
+* Regression Testing
+* Exploratory Testing
+* UI Testing
+* Cross-Browser Testing
+* Usability Testing
+* UI Automation
+* API Testing
+* Performance Testing
 
-## Project Status
+## 🛠️ Tools & Technologies
 
-🚧 Project in progress
+* Cypress
+* Postman
+* Apache JMeter
+* Git
+* GitHub
+* Excel
+* Markdown
+
+## 📂 Project Structure
+
+```text
+01-Requirements/
+02-Test-Plan/
+03-Test-Scenarios/
+04-Test-Cases/
+05-Bug-Reports/
+06-Exploratory-Testing/
+07-Automation/
+08-API-Testing/
+09-Performance-Testing/
+10-Test-Reports/
+```
+
+## 🔄 Testing Process
+
+```text
+Requirement Understanding
+        ↓
+Exploratory Testing
+        ↓
+Test Scenario Design
+        ↓
+Test Case Design
+        ↓
+Test Execution
+        ↓
+Defect Reporting
+        ↓
+Retesting
+        ↓
+Regression Testing
+        ↓
+UI Automation
+        ↓
+API Testing
+        ↓
+Performance Testing
+        ↓
+Final Test Report
+```
+
+## 📌 Project Status
+
+🚧 **In Progress**
+
+The project is being developed progressively, with manual testing, automation, API testing, and performance testing deliverables being added throughout the project.
+
+## 👩‍💻 Author
+
+**Malshini Wijayarathna**
+Associate Quality Assurance Engineer
+
+GitHub: https://github.com/Malshini2000Nsbm
