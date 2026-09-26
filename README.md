@@ -1,5 +1,4 @@
-# qaportfolio
-# E-Commerce Web Application – End-to-End QA Testing Project
+# QA portfolio
 
 ## Application Under Test
 
